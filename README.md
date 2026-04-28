@@ -1,4 +1,4 @@
-# Breast Cancer Diagnosis Prediction
+# Decision Tree Prediction
 
 A Decision Tree classifier that predicts breast cancer diagnosis (Benign vs. Malignant) from clinical features. Built as part of a supervised machine learning study using a 213-record breast cancer dataset.
 
